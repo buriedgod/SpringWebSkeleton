@@ -8,3 +8,4 @@ Right click on project and Run As -> maven install
 Once, it succeeds, Right click on project and Run As -> Run On Server
 Define a Server and Run on it.
 Java Version Set as - 8 - Make sure you have the same.
+ 
