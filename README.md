@@ -1,4 +1,4 @@
-##Sample Spring Web Application Skeleton
+##Spring Web Application Skeleton
 
 1. Clone the Project;
 2. run "mvn clean install" from console;
